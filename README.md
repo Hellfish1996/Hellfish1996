@@ -1,7 +1,7 @@
 <!-- README estilizado para Gustavo Flores con animaciones verdes/cian 💻 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFC6&center=true&vCenter=true&width=1000&lines=Hola+%F0%9F%91%8B%2C+soy+Gustavo+Flores.;Apasionado+por+los+datos%2C+el+Machine+Learning+y+la+IA.;Construyendo+soluciones+inteligentes+con+c%C3%B3digo+y+curiosidad!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFC6&center=true&vCenter=true&width=1000&lines=Hola+%F0%9F%91%8B%2C+soy+Gustavo+Flores.;Apasionado+por+los+datos%2C+el+Machine+Learning+y+la+IA.;construyendo+soluciones+inteligentes+con+c%C3%B3digo+y+curiosidad!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 👨‍🎓 Estudiante de Ingeniería Industrial apasionado por la tecnología, los datos y el impacto social.  
 - 🤖 Enfocado en proyectos de **Machine Learning**, **NLP** y desarrollo de **chatbots inteligentes**.  
-- 🚀 CTO & Cofundador en **[https://wainolab.vercel.app](https://wainolab.verecel.app)**  
+- 🚀 CTO & Cofundador en **[https://wainolab.vercel.app](https://wainolab.vercel.app)**  
 - 🧩 Me encanta aprender, compartir conocimiento y crear soluciones que inspiren a otros.
 
 ---
